@@ -1,1 +1,1 @@
-package myproject002我是中国人我爱中国
+package myproject002我是中国人我爱中国上面那句话是真的
